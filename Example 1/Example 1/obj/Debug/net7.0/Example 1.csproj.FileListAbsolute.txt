@@ -1,0 +1,15 @@
+D:\cs\looking words in parentheses\Example 1\Example 1\bin\Debug\net7.0\Example 1.exe
+D:\cs\looking words in parentheses\Example 1\Example 1\bin\Debug\net7.0\Example 1.deps.json
+D:\cs\looking words in parentheses\Example 1\Example 1\bin\Debug\net7.0\Example 1.runtimeconfig.json
+D:\cs\looking words in parentheses\Example 1\Example 1\bin\Debug\net7.0\Example 1.dll
+D:\cs\looking words in parentheses\Example 1\Example 1\bin\Debug\net7.0\Example 1.pdb
+D:\cs\looking words in parentheses\Example 1\Example 1\obj\Debug\net7.0\Example 1.csproj.AssemblyReference.cache
+D:\cs\looking words in parentheses\Example 1\Example 1\obj\Debug\net7.0\Example 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs\looking words in parentheses\Example 1\Example 1\obj\Debug\net7.0\Example 1.AssemblyInfoInputs.cache
+D:\cs\looking words in parentheses\Example 1\Example 1\obj\Debug\net7.0\Example 1.AssemblyInfo.cs
+D:\cs\looking words in parentheses\Example 1\Example 1\obj\Debug\net7.0\Example 1.csproj.CoreCompileInputs.cache
+D:\cs\looking words in parentheses\Example 1\Example 1\obj\Debug\net7.0\Example 1.dll
+D:\cs\looking words in parentheses\Example 1\Example 1\obj\Debug\net7.0\refint\Example 1.dll
+D:\cs\looking words in parentheses\Example 1\Example 1\obj\Debug\net7.0\Example 1.pdb
+D:\cs\looking words in parentheses\Example 1\Example 1\obj\Debug\net7.0\Example 1.genruntimeconfig.cache
+D:\cs\looking words in parentheses\Example 1\Example 1\obj\Debug\net7.0\ref\Example 1.dll
