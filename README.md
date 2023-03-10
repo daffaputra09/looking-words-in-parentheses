@@ -1,4 +1,4 @@
-# looking words in parentheses using C#
+# looking words in parentheses in C#
 ### Menampilkan teks yang terdapat pada tanda kurung
 1. Menampilkan kata dalam teks yang hanya `terdapat 1 pasang tanda kurung` <br> <br> 
 **Example:** Chatbot ini termasuk ke dalam Large Language Model (LLM), yaitu program komputer yang dapat mengenali, meringkas, menerjemahkan, memprediksi, dan menghasilkan teks <br>   <br> 
@@ -7,7 +7,7 @@
     LLM
     ```  
     <br>
- 2. Menampilkan kada dalam text yang terdapat `lebih dari 1 pasang tanda kurung` <br> <br> 
+ 2. Menampilkan kata dalam text yang terdapat `lebih dari 1 pasang tanda kurung` <br> <br> 
 **Example:**  Chatbot ini termasuk ke dalam Large Language Model (LLM), yaitu program komputer yang dapat (mengenali), (meringkas), (menerjemahkan), (memprediksi), dan (menghasilkan teks) <br>   <br> 
     ```
     Output:
